@@ -53,5 +53,5 @@ e-mail digitado é válido<br />
 <div align="center">
 
         Feito por Ana Buzzi, João Hagemann e Olive Cain 🚀
-    </p>
+    
 </div>
